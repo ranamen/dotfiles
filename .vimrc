@@ -7,3 +7,4 @@ set numberwidth=4
 set number
 set shiftwidth=2
 set colorcolumn=80
+set background=dark
